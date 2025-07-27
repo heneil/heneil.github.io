@@ -7,7 +7,7 @@ excerpt: 'This paper presents a comprehensive survey that details the recent tec
 date: 2025-08-03
 venue: 'ACM SIGKDD International Conference on Knowledge Discovery and Data Mining'
 slidesurl: 'https://hyperboliclearning.github.io/events/kdd2025tutorial'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.arxiv.org/abs/2507.17787'
 citation: '<ins>Neil He</ins>, Hiren Madhu, Ngoc Bui, Menglin Yang, and Rex Ying. &quot;Hyperbolic Deep Learning for Foundation Models: A Survey.&quot; in <i>KDD</i>. 2025.'
 ---
 

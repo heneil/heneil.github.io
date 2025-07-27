@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Neil He Bio"
 author_profile: true
 redirect_from: 
   - /about/
