@@ -11,6 +11,7 @@ Hi! I'm a first year PhD student in computer science at the University of Illino
 
 News
 ------
+- Our position paper advocating for non-Euclidean foundation models is accepted as oral at LoG 2025!
 - Our paper for hyperbolic large language models is accepted at NeurIPS 2025!
 - Our workshop for non-Euclidean foundation models is accepted at NeurIPS 2025!
 - Come to our tutorial for hyperbolic foundation models at SIGKDD 2025! [Website Link](https://hyperboliclearning.github.io/events/kdd2025tutorial) 

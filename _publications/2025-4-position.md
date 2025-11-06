@@ -1,11 +1,11 @@
 ---
 title: "Position: Beyond Euclidean -- Foundation Models Should Embrace Non-Euclidean Geometries"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2025-4-position
 excerpt: 'This paper argues for the necessity of incoporating non-Euclidean geometry into foundation models design, with arguments grounded in both theoretics and pratical considerations'
-date: 2025-04-11
-venue: 'preprint, under review'
+date: 2025-11-05
+venue: 'Learning on Graphs Conference 2025 (Oral)'
 paperurl: 'https://arxiv.org/abs/2504.08896'
 citation: '<ins>Neil He</ins>, Jiahong Liu, Buze Zhang, Ngoc Bui, Ali Maatouk, Menglin Yang, Irwin King, Melanie Weber, and Rex Ying. &quot;Position: Beyond Euclidean -- Foundation Models Should Embrace Non-Euclidean Geometries.&quot; <i>arXiv preprint</i>. 2025.'
 ---
